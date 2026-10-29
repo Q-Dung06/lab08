@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab08_ADONET_Commands/Lab08_ADONET_Commands.csproj" />
+  <Project Path="Lab08.DAL/Lab08.DAL.csproj" />
+</Solution>

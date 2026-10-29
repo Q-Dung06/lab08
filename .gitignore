@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.log
+*.tmp
+rendered_report/
+_VerifyLab08/
+create_lab08_report.py
+24003351_NguyenQuangDung_Lab8.docx
+24003351_NguyenQuangDung_SourceCode_Lab8.zip
